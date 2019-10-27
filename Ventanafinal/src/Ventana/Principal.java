@@ -11,9 +11,11 @@ public class Principal {
          //Acceso as = new Acceso();
          //as.setVisible(true);
         
-        Eventos ev = new Eventos();
-        ev.setVisible(true);
-    
+        //Eventos ev = new Eventos();
+        //ev.setVisible(true);
+         
+        Eventosteclado evt = new Eventosteclado();
+        evt.setVisible(true);
     
     
     }

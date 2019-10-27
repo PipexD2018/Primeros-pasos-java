@@ -138,5 +138,7 @@ public class Eventos extends JFrame{
     };
     boton2.addMouseListener(oyenteraton);
 }
+    
+
 
 }
